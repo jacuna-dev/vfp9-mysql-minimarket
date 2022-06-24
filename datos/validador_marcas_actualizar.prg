@@ -1,0 +1,3 @@
+DEFINE CLASS validador_categorias_actualizar AS validador_base_actualizar
+
+ENDDEFINE

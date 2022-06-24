@@ -1,0 +1,3 @@
+DEFINE CLASS validador_categorias_nuevo AS validador_base_nuevo
+
+ENDDEFINE
